@@ -1,0 +1,4 @@
+name: Gadgets
+main: net.craftions.gadgets.Gadgets
+version: 1.0
+api-version: 1.16
